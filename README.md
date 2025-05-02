@@ -23,7 +23,7 @@ I'm a Senior Mobile Software Engineer with over 5 years of experience in mobile,
 
 ## 🛠 **Key Skills**
 
-### 📱 **Mobile Development (Flutter, 4+ years, production experience)**
+## 📱 **Mobile Development (Flutter, 4+ years, production experience)**
 
 * **Architectures**: Clean, Feature-first, Module-first, MVVM
 * **State Management**: Bloc, ChangeNotifier, MobX, GetX
