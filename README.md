@@ -1,4 +1,3 @@
-* **Phone**: +77074054407
 * **Email**: [alexganbert@gmail.com](mailto:alexganbert@gmail.com)
 * **LinkedIn**: [linkedin.com/in/alexanderbangert-ab0a7b253](https://linkedin.com/in/alexanderbangert-ab0a7b253)
 * **GitHub (Portfolio)**: [github.com/AlexHCJP](https://github.com/AlexHCJP)
