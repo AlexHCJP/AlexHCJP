@@ -1,4 +1,4 @@
-<!--
+ <!--
 References used in this Repository
 https://github.com/kyechan99/capsule-render
 https://github.com/DenverCoder1/custom-icon-badges
@@ -46,7 +46,7 @@ https://getemoji.com
 
 <!-- ABOUT ME -->
 
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet you — I'm Júlio Cézar, aka *Juletopi*
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet you — I'm Júlio Cézar, aka *AlexHCJP*
 
 <img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="290" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
@@ -68,26 +68,26 @@ Wanna reach out? My links are down below!
 <!-- SOCIAL NETWORKS -->
 
 <div align="right">
-  <a href="https://juletopi.github.io/JCPC_Portfolio/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
+  <a href="https://AlexHCJP.github.io/JCPC_Portfolio/">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
+  <a href="https://dev.to/AlexHCJP">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
+  <a href="https://linktr.ee/AlexHCJP">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
+  <a href="https://www.instagram.com/AlexHCJP/">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100006955867774">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email">
+    <img src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email">
   </a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
@@ -236,20 +236,20 @@ Wanna reach out? My links are down below!
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Work Experience
 
   <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1764201600&v=beta&t=aOM1wkKN_PeMdXMDbq1xulNfVl4nzWa8PRuwkpEFVe8" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Go to the company's website →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Junior Web Developer** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Site)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>currently now...**</i>
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Junior Web Developer** \
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Site)** \
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>currently now...**</i>
 
 <!-- EDUCATION -->
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education
 
-  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/6e52c29a-8c6c-438d-93a8-c465311d2efe" align="left" width="94" height="100" alt="IFRO-pic" title="Go to the institution's website →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development**\
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Campus)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
+  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/AlexHCJP/AlexHCJP/assets/76459155/6e52c29a-8c6c-438d-93a8-c465311d2efe" align="left" width="94" height="100" alt="IFRO-pic" title="Go to the institution's website →"/></a>
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development**\
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Campus)** \
+  <img align="center" src="https://github.com/AlexHCJP/AlexHCJP/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
 
 <br>
 
@@ -263,7 +263,7 @@ Wanna reach out? My links are down below!
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
 
-[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+[![AlexHCJP's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
   <a href="#">
@@ -276,22 +276,22 @@ Wanna reach out? My links are down below!
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; Recent projects
 
 <p align="left">
-    <a href="https://github.com/juletopi/PontuaDev_Project">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=PontuaDev_Project&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PontuaDev-Repo">
+    <a href="https://github.com/AlexHCJP/PontuaDev_Project">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHCJP&theme=react&repo=PontuaDev_Project&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PontuaDev-Repo">
     </a>
-    <a href="https://github.com/juletopi/JCPC_Portfolio">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=JCPC_Portfolio&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="JCPCPortfolio-Repo">
+    <a href="https://github.com/AlexHCJP/JCPC_Portfolio">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHCJP&repo=JCPC_Portfolio&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="JCPCPortfolio-Repo">
     </a>
-    <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CyberpunkEdgerunners-Repo">
+    <a href="https://github.com/AlexHCJP/Pagina_Cyberpunk-Edgerunners">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHCJP&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CyberpunkEdgerunners-Repo">
     </a>
-    <a href="https://github.com/juletopi/Desafio_Pagina_Musical">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=Desafio_Pagina_Musical&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PaginaMusical-Repo">
+    <a href="https://github.com/AlexHCJP/Desafio_Pagina_Musical">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexHCJP&theme=react&repo=Desafio_Pagina_Musical&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PaginaMusical-Repo">
     </a>
 </p>
 
-<a href="https://github.com/juletopi?tab=repositories&sort=stargazers">
-  <img alt="AllRepositories" title="All of Juletopi´s Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+<a href="https://github.com/AlexHCJP?tab=repositories&sort=stargazers">
+  <img alt="AllRepositories" title="All of AlexHCJP´s Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
 <br>
@@ -307,8 +307,8 @@ Wanna reach out? My links are down below!
 <!-- STATS -->
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Contribution Graph">
+  <a href="https://github.com/AlexHCJP/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexHCJP&bg_color=0e1118&hide_border=true&custom_title=AlexHCJP's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="AlexHCJPContribution-graph" title="Contribution Graph">
   </a>
 </div>
 
@@ -319,11 +319,11 @@ Wanna reach out? My links are down below!
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="Juletopi-stats" title="GitHub Stats">
+  <a href="https://github.com/AlexHCJP/">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexHCJP&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=AlexHCJP's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="AlexHCJP-stats" title="GitHub Stats">
   </a>
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="JuletopiTopLangs-stats" title="Coding Language Stats">
+  <a href="https://github.com/AlexHCJP/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHCJP&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=AlexHCJP's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="AlexHCJPTopLangs-stats" title="Coding Language Stats">
   </a>
 </div>
 
@@ -334,8 +334,8 @@ Wanna reach out? My links are down below!
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Streak Stats">
+  <a href="https://github.com/AlexHCJP/">
+    <img src="https://streak-stats.demolab.com/?user=AlexHCJP&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="AlexHCJPStreak-stats" title="Streak Stats">
   </a>
 </div>
 
@@ -347,13 +347,6 @@ Wanna reach out? My links are down below!
 
 <br>
 
-<!-- THANKS FOR VISITING -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again!"/>
-  </a>
-</div>
 
 
 * **Email**: [alexganbert@gmail.com](mailto:alexganbert@gmail.com)
@@ -362,3 +355,13 @@ Wanna reach out? My links are down below!
 * **Personal Website**: [devkaban.vercel.app](https://devkaban.vercel.app)
 * **Telegram**: [@devKaban](https://t.me/devKaban)
 * **Blog**: [@itskinhead](https://t.me/itskinhead)
+
+<br>
+
+<!-- THANKS FOR VISITING -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again!"/>
+  </a>
+</div>
