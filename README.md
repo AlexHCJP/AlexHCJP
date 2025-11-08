@@ -1,4 +1,4 @@
-[[AAAA](https://raw.githubusercontent.com/mariadb-ThienLy/mariadb-ThienLy/master/profile-summary-card-output/github_dark/0-profile-details.svg)]
+[![AAAA](https://raw.githubusercontent.com/mariadb-ThienLy/mariadb-ThienLy/master/profile-summary-card-output/github_dark/0-profile-details.svg)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHCJP&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexHCJP&show_icons=true&theme=default#gh-light-mode-only)
 
