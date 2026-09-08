@@ -47,7 +47,7 @@
 * **LinkedIn**: [linkedin.com/in/alexanderbangert-ab0a7b253](https://linkedin.com/in/alexanderbangert-ab0a7b253)
 * **GitHub (Portfolio)**: [github.com/AlexHCJP](https://github.com/AlexHCJP)
 * **Personal Website**: [devkaban.vercel.app](https://devkaban.vercel.app)
-* **Telegram**: [@devKaban](https://t.me/devKaban)
+* **Telegram**: [@alexanderbangert](https://t.me/alexanderbangert)
 * **Blog**: [@itskinhead](https://t.me/itskinhead)
 
 <br>
